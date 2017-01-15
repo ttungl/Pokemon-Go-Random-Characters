@@ -1,4 +1,4 @@
-# Pokemon-Go-Random-Characters
+# Pokemon Go Random Characters
 Version 1.1 </br>
 This add-ons extension app is just made for fun, and it may help you have a great day! </br>
 Now it only supports for Google Chrome Browser.</br>
