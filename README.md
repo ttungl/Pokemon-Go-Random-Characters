@@ -1,4 +1,6 @@
 # Pokemon Go Random Characters
+    Author: Tung Thanh Le
+    Contact: ttungl at gmail
 Version 1.1 </br>
 This add-ons extension app is just made for fun, and it may help you have a great day! </br>
 Now it only supports for Google Chrome Browser.</br>
