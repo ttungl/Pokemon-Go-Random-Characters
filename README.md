@@ -7,7 +7,7 @@ Now it only supports for Google Chrome Browser.</br>
 
 ## How to use the app
 Go to the Chrome Web Store to download. Click on "Add to Chrome" to install it.</br>
-[Link to Chrome Web Store](https://chrome.google.com/webstore/detail/pokemon-go-random-charact/poalacabnkdncdkbnhngbjamiipnhejm)
+[Link to Chrome Web Store](http://goo.gl/DlqG3k)
 
 ## Snapshot on Chrome Extensions
 ![alt tag](https://github.com/ttungl/Pokemon-Go-Random-Characters/blob/master/results/pokemonGo_random_characters.png?raw=true)
