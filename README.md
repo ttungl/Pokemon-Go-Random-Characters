@@ -31,4 +31,3 @@ Email: ttungl at gmail <br />
 
 ## Language
 Javascript<br />
-JSON<br />
